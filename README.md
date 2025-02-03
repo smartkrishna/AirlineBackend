@@ -1,4 +1,4 @@
-# AirHub Backend System
+# AirLine Backend System
 - This project is based on Microservice architecture.
 - This project follows the repository pattern, whereby, we communicate the models through the repository layer, and all of our business logic is primarily stored in the service layer.
 - This backend system has specific cron-jobs for different usecases, like reminder service, update mails, etc.
