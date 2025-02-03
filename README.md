@@ -8,20 +8,6 @@
 - All the microservices which were needed to build this project are listed at the bottom of this documentation.
 - Refer to the Design doc for more explanation regarding the backend complexities and functionalities.
 
-## Microservice repositories
- - ### Ticketing Microservice
-      - For booking the flight tickets and message queues
-      - [https://github.com/Kartik8Dwivedi/Booking-Microservice](https://github.com/Kartik8Dwivedi/Ticketing-Microservice)
- - ### Mailing and Third party Microservice
-      - For setting up the cron jobs and message queues
-      - [https://github.com/Kartik8Dwivedi/Notification-Microservice](https://github.com/Kartik8Dwivedi/Thirt-Party-Microservice)
- - ### Authentication and Authorization microservice
-      - For authentication logic
-      - [https://github.com/Kartik8Dwivedi/Auth-Microservice](https://github.com/Kartik8Dwivedi/Authentication-and-Authorization-microservice)
- - ### Api Endpoint Gateway microservice
-      - For api endpoint switch to particular microservice; the role of this microservice in majorly for deployment
-      - https://github.com/Kartik8Dwivedi/API-Endpoint-Gateway
- - This backend system was active on AWS EC2 instance earlier, currently it is terminated. The containerized version of this system will be committed soon!
 
 ## Project Setup
 - clone the project on your local 
